@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on E-mail: amjadrooney@icloud.com
+
 
 <!---
 amjad632/amjad632 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
